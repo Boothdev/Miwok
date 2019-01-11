@@ -50,6 +50,8 @@ public class PhrasesFragment extends Fragment {
         }
     };
 
+    //test
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
